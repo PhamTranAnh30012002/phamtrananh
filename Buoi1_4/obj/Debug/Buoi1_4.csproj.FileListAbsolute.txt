@@ -1,0 +1,2 @@
+D:\Buoi1\PhamTranAnh_2120110336\Buoi1_4\bin\Debug\Buoi1_4.exe.config
+D:\Buoi1\PhamTranAnh_2120110336\Buoi1_4\obj\Debug\Buoi1_4.csprojResolveAssemblyReference.cache

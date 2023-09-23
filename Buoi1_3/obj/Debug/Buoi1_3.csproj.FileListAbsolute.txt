@@ -1,0 +1,6 @@
+D:\Buoi1\PhamTranAnh_2120110336\Buoi1_3\bin\Debug\Buoi1_3.exe.config
+D:\Buoi1\PhamTranAnh_2120110336\Buoi1_3\bin\Debug\Buoi1_3.exe
+D:\Buoi1\PhamTranAnh_2120110336\Buoi1_3\bin\Debug\Buoi1_3.pdb
+D:\Buoi1\PhamTranAnh_2120110336\Buoi1_3\obj\Debug\Buoi1_3.csprojResolveAssemblyReference.cache
+D:\Buoi1\PhamTranAnh_2120110336\Buoi1_3\obj\Debug\Buoi1_3.exe
+D:\Buoi1\PhamTranAnh_2120110336\Buoi1_3\obj\Debug\Buoi1_3.pdb

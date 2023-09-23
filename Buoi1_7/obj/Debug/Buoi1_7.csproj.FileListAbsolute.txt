@@ -1,0 +1,5 @@
+D:\Buoi1\PhamTranAnh_2120110336\Buoi1_7\bin\Debug\Buoi1_7.exe.config
+D:\Buoi1\PhamTranAnh_2120110336\Buoi1_7\bin\Debug\Buoi1_7.exe
+D:\Buoi1\PhamTranAnh_2120110336\Buoi1_7\bin\Debug\Buoi1_7.pdb
+D:\Buoi1\PhamTranAnh_2120110336\Buoi1_7\obj\Debug\Buoi1_7.exe
+D:\Buoi1\PhamTranAnh_2120110336\Buoi1_7\obj\Debug\Buoi1_7.pdb
